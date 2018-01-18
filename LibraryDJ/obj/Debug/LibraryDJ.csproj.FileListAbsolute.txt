@@ -1,0 +1,4 @@
+c:\users\pythagoras\documents\visual studio 2017\Projects\LibraryDJ\LibraryDJ\bin\Debug\LibraryDJ.dll
+c:\users\pythagoras\documents\visual studio 2017\Projects\LibraryDJ\LibraryDJ\bin\Debug\LibraryDJ.pdb
+c:\users\pythagoras\documents\visual studio 2017\Projects\LibraryDJ\LibraryDJ\obj\Debug\LibraryDJ.dll
+c:\users\pythagoras\documents\visual studio 2017\Projects\LibraryDJ\LibraryDJ\obj\Debug\LibraryDJ.pdb
